@@ -1,6 +1,7 @@
 body {
   margin: 0;
   min-width: 250px;
+  font-family: Arial;
 }
 
 /* Include the padding and border in an element's total width and height */
