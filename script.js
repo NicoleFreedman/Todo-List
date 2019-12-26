@@ -87,7 +87,7 @@ function buildItem(text) {
 	item.innerHTML = text;
 	let close = document.createElement("span");
 	close.className = "close";
-	close.innerHTML = "X";
+	close.innerHTML = "x";
 
 	box.append(checkbox);
 	box.append(item);
